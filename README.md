@@ -21,6 +21,12 @@ The Smart Garbage Collection and Sensor Monitoring Boat offers a modern solution
 5.Bluetooth Module :  The Bluetooth module in this project enables wireless communication, allowing remote control of the boat.
 6.Seamless integration :  Combines hardware and software to create an efficient monitoring system
 ## Web Interface
+![Picture3](https://github.com/user-attachments/assets/2cde650b-a727-49ee-840d-c4ce109519b2)
+## Firebase Reading
+![Picture4](https://github.com/user-attachments/assets/06494678-690d-4eeb-8964-b0cf58e75be9)
+
+
+![Picture5](https://github.com/user-attachments/assets/4f1be3d6-02dc-440d-917d-dae022c6e818)
 
 
 
